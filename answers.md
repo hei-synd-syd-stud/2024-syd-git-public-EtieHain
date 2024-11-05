@@ -16,7 +16,7 @@ Head signifie mon reperoire local
 Main signifie la branche principale de mon projet
 Après les parenthèse : message du commit
 ### Task 6
-
+Je suis retourné à l'état de mon projet au premier commit, c'est à dire le même état que aund j'ai cloner le projet. Puis avec le checkout main, je suis retourné à la dernière version de la branche principale de mon projet.
 ## Gitgraph
 
 ### Task 7
